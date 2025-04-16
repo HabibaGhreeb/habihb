@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1744030657
+blocks.tres::MeshLibrary::8340009304055948537::1740997320::0::1::::<><><>0<>0<><>::
+blocks.tscn::PackedScene::8852873143348911498::1741000644::0::1::::<><><>0<>0<><>::
+grid_map.gd::GDScript::4107538625534054890::1739383605::0::1::::<>GridMap<><>0<>0<><>::
+icon.svg::CompressedTexture2D::901784629682100362::1739051822::1744030659::1::::<><><>0<>0<>82267071d93c0fe160627ddc06f65900<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+main_menu.gd::GDScript::5059740543421515997::1739979548::0::1::::<>Node3D<><>0<>0<><>::
+main_menu.tscn::PackedScene::2215425284965774489::1741000644::0::1::::<><><>0<>0<><>::res://main_menu.gd<>uid://dq27y8mreh8kj::::res://blocks.tres<>res://grid_map.gd<>res://v_box_container.gd
+player.gd::GDScript::7416660230049736146::1740134280::0::1::::<>CharacterBody3D<><>0<>0<><>::
+player.tscn::PackedScene::5765882420874077456::1741000644::0::1::::<><><>0<>0<><>::res://player.gd
+v_box_container.gd::GDScript::2042881367797656781::1739979297::0::1::::<>VBoxContainer<><>0<>0<><>::
+wood.tres::StandardMaterial3D::49473981203874570::1739051819::0::1::::<><><>0<>0<><>::
+world.tscn::PackedScene::5138683358632092098::1741000644::0::1::::<><><>0<>0<><>::uid://cofbigw37jjt5::::res://player.tscn<>uid://dq27y8mreh8kj::::res://blocks.tres<>res://grid_map.gd

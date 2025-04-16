@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1740944627
+blocks.tres::MeshLibrary::8340009304055948537::1739967531::0::1::::<><>::
+blocks.tscn::PackedScene::8852873143348911498::1739985107::0::1::::<><>::
+grid_map.gd::GDScript::-1::1739383605::0::1::::<>GridMap<>::
+icon.svg::CompressedTexture2D::901784629682100362::1739051822::1739110832::1::::<><>::
+main_menu.gd::GDScript::-1::1739979548::0::1::::<>Node3D<>::
+main_menu.tscn::PackedScene::2215425284965774489::1739985107::0::1::::<><>::res://main_menu.gd<>uid://dq27y8mreh8kj::::res://blocks.tres<>res://grid_map.gd<>res://v_box_container.gd
+player.gd::GDScript::-1::1740134280::0::1::::<>CharacterBody3D<>::
+player.tscn::PackedScene::5765882420874077456::1739985107::0::1::::<><>::res://player.gd
+v_box_container.gd::GDScript::-1::1739979297::0::1::::<>VBoxContainer<>::
+wood.tres::StandardMaterial3D::49473981203874570::1739051819::0::1::::<><>::
+world.tscn::PackedScene::5138683358632092098::1739985106::0::1::::<><>::uid://cofbigw37jjt5::::res://player.tscn<>uid://dq27y8mreh8kj::::res://blocks.tres<>res://grid_map.gd
